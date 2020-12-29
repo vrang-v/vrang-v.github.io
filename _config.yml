@@ -1,12 +1,10 @@
-title: uBuild Design Blocks
-author: Forestry.io
-email: support@forestry.io
+title: 개발 블로그
+author: vrang-v
+email: tlsalsrl0617@gmail.com
 description: >-
-  ubuild-jekyll is a Jekyll theme desgined to work with Forestry's Blocks feature.
-  This theme provides a set of page-level components and a pre-configured Forestry Blocks UI
-  that will empower content editors to construct their own webpages.
-baseurl: "/ubuild-jekyll" # the subpath of your site, e.g. /blog
-url: "" # your site's origin, e.g. https://forestry.io
+  2021년부터 시작하는 블로그
+baseurl: "/vrang-v.github.io"
+url: "https://vrang-v.github.io/"
 
 # Build settings
 defaults:
