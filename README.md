@@ -1,6 +1,4 @@
-![uBuild Blocks](uploads/2018/06/21/theme.png)
-
-# uBuild Jekyll Theme
+# 안녕!
 
 [View the announcement post on Forestry.io](https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/#/)
 
